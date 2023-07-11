@@ -19,6 +19,10 @@ The project involves the following steps:
 
 5. Streamlit Integration: The Streamlit framework was utilized to create an interactive user interface for the water quality prediction system. The interface allows users to input the relevant parameters for a specific location and obtain the predicted water quality result.
 
+## Web App Demo
+
+![](https://water-quality-prediction-app.streamlit.app/)
+
 
 ## Requirements
 
@@ -49,3 +53,6 @@ Once the application is running, you can access it through your web browser. The
 ## Acknowledgments
 
 I would like to acknowledge Omdena's Rwanda Chapter for providing the opportunity to work on this project. I also extend my gratitude to all the contributors who participated in developing and improving the water quality prediction system.
+
+## Resources
+- Omdena Local Chapter [Link](https://omdena.com/chapter-challenges/developing-an-automated-water-quality-prediction-system/)
