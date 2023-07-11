@@ -214,6 +214,10 @@ def contributors_page():
                             <td>Marwan Ashraf</td>
                         </tr>
                         <tr>
+                            <td>Md. Anas Mondol</td>
+                            <td>Ye Bhone Lin</td>
+                        </tr>
+                        <tr>
                             <td>Lael</td>
                             <td>Leonardo Goliatt</td>
                         </tr>
