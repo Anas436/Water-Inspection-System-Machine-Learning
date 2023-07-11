@@ -19,9 +19,10 @@ The project involves the following steps:
 
 5. Streamlit Integration: The Streamlit framework was utilized to create an interactive user interface for the water quality prediction system. The interface allows users to input the relevant parameters for a specific location and obtain the predicted water quality result.
 
-## Web App Demo
 
-![](https://water-quality-prediction-app.streamlit.app/)
+
+## Web App Demo [Link Here](https://water-quality-prediction-app.streamlit.app/)
+
 
 
 ## Requirements
